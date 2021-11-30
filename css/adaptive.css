@@ -1,0 +1,12 @@
+/*768-1023*/
+@media screen and (max-width: 1023px) {
+    #first-container {
+        padding-bottom: 420px;
+    }
+
+    #fifth-cont-image img {
+        position: absolute;
+        right: 55px;
+        bottom: 60px;
+    }
+}
